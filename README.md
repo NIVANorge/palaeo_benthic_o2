@@ -8,8 +8,5 @@ Investigating the influence of temperature change, marine transgression and TOC 
  
  <p align="center">
   <img src="png/paleo_bathymetry_4.png" alt="175 to 90 Ma" width="800" />
-</p>
-
- <p align="center">
   <img src="png/shelf_area_through_time.png" alt="Shelf area (0 - 200 m) through time" width="800" />
 </p>
