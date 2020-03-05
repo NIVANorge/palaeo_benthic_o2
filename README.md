@@ -15,4 +15,5 @@ Investigating the influence of temperature change, marine transgression and TOC 
  <p align="center">
   <img src="png/shelf_area_through_time.png" alt="Shelf area through time" width="800" />
   <img src="png/paleo_bathymetry.png" alt="Paleogeography - 540 Ma to present" width="800" />
+  <img src="png/paleo_bathymetry_0to50m.png" alt="Paleogeography - 540 Ma to present" width="800" />
 </p>
