@@ -2,9 +2,13 @@
 
 Investigating the influence of temperature change, marine transgression and TOC delivery on shallow-shelf oxygen conditions.
 
-## Preliminary data exploration
+## Model structure
 
-### Notebooks
+ <p align="center">
+  <img src="mobius_model/images/benthic_o2_model_sketch_2020-03-05.png" alt="Proposed structure (05.03.2020)" width="600" />
+</p>
+
+## Paleogeographic data
 
  * **[GIS data for paleobathymetry](https://nbviewer.jupyter.org/github/NIVANorge/paleo_benthic_o2/blob/master/notebooks/paleomap_bathymetry.ipynb)**. Exploring datasets from the [PaleoDEM project](https://www.earthbyte.org/paleodem-resource-scotese-and-wright-2018/)
  
